@@ -1,5 +1,5 @@
 # AutoComplete
-auto completion group project for data structures II. Utilizes multiple classes and methods in order to return terms based on a prefix string a user types in, with each term having an associated weight, with the higher weight values appearing first.
+auto completion project for data structures II. Utilizes multiple classes and methods in order to return terms based on a prefix string a user types in, with each term having an associated weight, with the higher weight values appearing first.
 Put all the .txt files into a seperate folder. 
 Put all the .java files in a src folder.
 Put both of those folders into a project folder.
